@@ -1,5 +1,5 @@
 ### Maulana Abul Kalam Azad University of Technology Information
-* [OWASP Chennai mail list](mailto:ritam.ghosh@owasp.org)
+* [OWASP MAKAUT mail list](mailto:ritam.ghosh@owasp.org)
 
 ### Social Links
 * [Meetup](https://www.meetup.com/OWASP-MAKAUT-Meetup-Group/)
