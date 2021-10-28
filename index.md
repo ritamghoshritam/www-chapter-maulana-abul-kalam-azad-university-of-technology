@@ -11,7 +11,7 @@ meetup-group: OWASP-MAKAUT-Meetup-Group
 
 ## Welcome
 
-<img src="assets/images/logo/owasp_makaut_logo.png">
+<img src="assets/images/owasp_makaut_logo.png">
 
 OWASP Maulana Abul Kalam Azad University of Technology was founded in September, 2021 by Ritam Ghosh with unique amalgamation of aspiration, hard work, and productive work structure with members dedicated to achieving perfection, sincerity underpins the progressive wheel. 
 <br>
