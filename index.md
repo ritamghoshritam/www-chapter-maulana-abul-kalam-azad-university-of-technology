@@ -2,9 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Maulana Abul Kalam Azad University of Technology
-tags: example-tag
+tags: OWASP MAKAUT
+level: 6
 region: Asia
-meetup-group:
+meetup-group: OWASP-MAKAUT-Meetup-Group
 
 ---
 
